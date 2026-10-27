@@ -1,7 +1,11 @@
 {
   "version": "1.6",
-  "timestamp": "2026-10-27T02:09:29.355Z",
+  "timestamp": "2026-10-27T04:55:46.908Z",
   "name": "leds",
+  "interface": {
+    "inputs": [],
+    "outputs": []
+  },
   "nextCircuitId": 2,
   "components": [
     {
@@ -150,7 +154,7 @@
         "base": 10,
         "color": null,
         "rotation": 0,
-        "label": "R"
+        "label": "NOT"
       },
       "ports": [
         {
@@ -171,7 +175,7 @@
         "base": 10,
         "color": null,
         "rotation": 0,
-        "label": "S"
+        "label": "AND"
       },
       "ports": [
         {
@@ -192,7 +196,7 @@
         "base": 10,
         "color": null,
         "rotation": 0,
-        "label": "T"
+        "label": "OR"
       },
       "ports": [
         {
@@ -213,7 +217,7 @@
         "base": 10,
         "color": null,
         "rotation": 0,
-        "label": "U"
+        "label": "XOR"
       },
       "ports": [
         {
